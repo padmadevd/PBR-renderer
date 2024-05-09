@@ -3,4 +3,4 @@ real time 3D PBR renderer
 
 # screenshots
 
-![](./screenshots/Screenshot from 2024-05-09 16-43-17.png)
+![](https://github.com/padmadevd/PBR-renderer/blob/main/screenshots/Screenshot%20from%202024-05-09%2016-42-36.png))
