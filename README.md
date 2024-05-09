@@ -1,5 +1,7 @@
 # PBR-renderer
+
 real time 3D PBR renderer
+BRDF model - split sum approximation
 
 # screenshots
 
